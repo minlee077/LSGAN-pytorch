@@ -1,5 +1,5 @@
 # LSGAN-pytorch
-A pytorch implementation of "Least Squares Generative Adversarial Networks"
+Pytorch implementation of [Least Squares Generative Adversarial Networks](https://arxiv.org/abs/1611.04076) which adopt the least squares loss function for the discriminator.
 
 ## Result
 
